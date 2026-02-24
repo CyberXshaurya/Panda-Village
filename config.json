@@ -1,0 +1,1 @@
+{\n  "windowDimensions": {\n    "width": 800,\n    "height": 600\n  },\n  "colors": {\n    "background": "#FFFFFF",\n    "panda": "#FFC0CB"\n  },\n  "pandaCount": 5,\n  "animationSpeed": 1.0,\n  "systemIntegration": {\n    "enabled": true,\n    "integrationType": "webhook"\n  }\n}
